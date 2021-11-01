@@ -1,0 +1,31 @@
+yougame.biz##.top-banner-s
+yougame.biz##.sponsor-banner-s
+yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > div.f_o_p:nth-child(2)
+yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > div.so_t_ka:nth-child(3)
+yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(5) > div.p-navEl > a.p-navEl-link
+yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(6) > div.p-navEl > a.p-navEl-link
+yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(7) > div.p-navEl > a.p-navEl-link
+yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:last-child > div.p-navEl > a.p-navEl-link
+https://yougame.biz/images/rlm/vreduxadv.png$domain=yougame.biz
+yougame.biz##.yg_first_post
+yougame.biz##.is-prefix164
+yougame.biz##.item--stickedLink, .is-sticked
+vsthemes.org###article > div:nth-child(7)
+https://brokencore.club/data/siropu/am/user/161367bfca15b0.gif$domain=brokencore.club
+https://brokencore.club/styles/offbot-style/xenforo/bnr_600x60.png$domain=brokencore.club
+brokencore.club##.samItem, .csgo_bnr
+vk.com###l_custom2 > a.left_row:first-child
+vk.com###l_custom1 > a.left_row:first-child
+vk.com###l_custom0 > a.left_row:first-child
+vk.com###customLinks_more_div
+lolz.guru##.text_Ads
+deezer.com###page_sidebar > div.sidebar-header:first-child > div.conversion-banner:last-child
+rule34.xxx###right-col > div.horizontalFlexWithMargins:nth-child(12)
+dns-shop.ru##.products-list__banner
+yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > ul.notices.notices--block.js-notices:nth-child(4) > li.notice.js-notice
+dns-shop.ru##header:nth-child(4) > div.single-banner-container.single-banner-container_header:first-child
+/img/partners/*.png$domain=cross.bet
+/img/partners/*$domain=cross.bet
+cross.bet##.img-fluid
+cross.bet##.partnerLink
+
