@@ -28,4 +28,4 @@ dns-shop.ru##header:nth-child(4) > div.single-banner-container.single-banner-con
 /img/partners/*$domain=cross.bet
 cross.bet##.img-fluid
 cross.bet##.partnerLink
-image.winudf.com
+
