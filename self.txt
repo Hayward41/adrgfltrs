@@ -1,3 +1,4 @@
+! Title: Расширенный фильтр для ВКонтакте
 yougame.biz##.top-banner-s
 yougame.biz##.sponsor-banner-s
 yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > div.f_o_p:nth-child(2)
