@@ -1,4 +1,9 @@
-! Title: Расширенный фильтр для ВКонтакте
+[Adblock Plus 2.0]
+! Version: 1.0.1
+! Title: Что-то?
+! Homepage: https://ya.ru
+! Last modified: 02 Nov 2021 22:06
+! Description: Фильтр рекламы и слежки на vk.com. Фильтр не рассчитан для m.vk.com
 yougame.biz##.top-banner-s
 yougame.biz##.sponsor-banner-s
 yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > div.f_o_p:nth-child(2)
