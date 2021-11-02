@@ -6,7 +6,7 @@ yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:las
 yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(6) > div.p-navEl > a.p-navEl-link
 yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(7) > div.p-navEl > a.p-navEl-link
 yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:last-child > div.p-navEl > a.p-navEl-link
-https://yougame.biz/images/rlm/vreduxadv.png$domain=yougame.biz
+https://yougame.biz/images/rlm/*$domain=yougame.biz
 yougame.biz##.yg_first_post
 yougame.biz##.is-prefix164
 yougame.biz##.item--stickedLink, .is-sticked
@@ -28,4 +28,6 @@ dns-shop.ru##header:nth-child(4) > div.single-banner-container.single-banner-con
 /img/partners/*$domain=cross.bet
 cross.bet##.img-fluid
 cross.bet##.partnerLink
-
+yougame.biz##.item:contains(" [Завершено]")
+yougame.biz##.item:contains("Приватный чит ")
+yougame.biz##.item:contains("🔥 Sevenhelper - бесплатное приложение для использования макросов в ")
