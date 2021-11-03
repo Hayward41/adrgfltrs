@@ -1,21 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 1.0.2
+! Version: 1.0.3
 ! Title: Что-то?
 ! Homepage: https://ya.ru
-! Last modified: 02 Nov 2021 22:06
+! Last modified: 03 Nov 2021 10:57
 ! Description: Что-то? но вот что?
-yougame.biz##.top-banner-s
-yougame.biz##.sponsor-banner-s
-yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > div.f_o_p:nth-child(2)
-yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > div.so_t_ka:nth-child(3)
-yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(5) > div.p-navEl > a.p-navEl-link
-yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(6) > div.p-navEl > a.p-navEl-link
-yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(7) > div.p-navEl > a.p-navEl-link
-yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:last-child > div.p-navEl > a.p-navEl-link
-https://yougame.biz/images/rlm/*$domain=yougame.biz
-yougame.biz##.yg_first_post
-yougame.biz##.is-prefix164
-yougame.biz##.item--stickedLink, .is-sticked
 vsthemes.org###article > div:nth-child(7)
 https://brokencore.club/data/siropu/am/user/161367bfca15b0.gif$domain=brokencore.club
 https://brokencore.club/styles/offbot-style/xenforo/bnr_600x60.png$domain=brokencore.club
@@ -28,7 +16,6 @@ lolz.guru##.text_Ads
 deezer.com###page_sidebar > div.sidebar-header:first-child > div.conversion-banner:last-child
 rule34.xxx###right-col > div.horizontalFlexWithMargins:nth-child(12)
 dns-shop.ru##.products-list__banner
-yougame.biz###top > div.p-body:nth-child(4) > div.p-body-inner > ul.notices.notices--block.js-notices:nth-child(4) > li.notice.js-notice
 dns-shop.ru##header:nth-child(4) > div.single-banner-container.single-banner-container_header:first-child
 /img/partners/*.png$domain=cross.bet
 /img/partners/*$domain=cross.bet
@@ -37,3 +24,7 @@ cross.bet##.partnerLink
 yougame.biz##.item:contains(" [Завершено]")
 yougame.biz##.item:contains("Приватный чит ")
 yougame.biz##.item:contains("🔥 Sevenhelper - бесплатное приложение для использования макросов в ")
+yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(6) > div.p-navEl > a.p-navEl-link
+yougame.biz##.is-prefix164
+yougame.biz##.item--stickedLink, .is-sticked
+
