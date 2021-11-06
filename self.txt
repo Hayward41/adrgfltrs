@@ -28,3 +28,4 @@ yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:las
 yougame.biz##.is-prefix164
 yougame.biz##.item--stickedLink, .is-sticked
 @@||https://yougame.biz/images/rlm/logo/logoconcept4.png
+||ackcdn.net^
