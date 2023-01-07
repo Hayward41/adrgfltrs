@@ -1,31 +1,25 @@
 [Adblock Plus 2.0]
-! Version: 1.0.4
+! Version: 1.1.0
 ! Title: Что-то?
-! Homepage: https://ya.ru
-! Last modified: 03 Nov 2021 11:08
+! Last modified: 07 Jan 2023
 ! Description: Что-то? но вот что?
-vsthemes.org###article > div:nth-child(7)
-https://brokencore.club/data/siropu/am/user/161367bfca15b0.gif$domain=brokencore.club
-https://brokencore.club/styles/offbot-style/xenforo/bnr_600x60.png$domain=brokencore.club
-brokencore.club##.samItem, .csgo_bnr
-vk.com###l_custom2 > a.left_row:first-child
-vk.com###l_custom1 > a.left_row:first-child
-vk.com###l_custom0 > a.left_row:first-child
-vk.com###customLinks_more_div
-lolz.guru##.text_Ads
-deezer.com###page_sidebar > div.sidebar-header:first-child > div.conversion-banner:last-child
-rule34.xxx###right-col > div.horizontalFlexWithMargins:nth-child(12)
-dns-shop.ru##.products-list__banner
-dns-shop.ru##header:nth-child(4) > div.single-banner-container.single-banner-container_header:first-child
-/img/partners/*.png$domain=cross.bet
-/img/partners/*$domain=cross.bet
-cross.bet##.img-fluid
-cross.bet##.partnerLink
-yougame.biz##.item:contains(" [Завершено]")
-yougame.biz##.item:contains("Приватный чит ")
-yougame.biz##.item:contains("🔥 Sevenhelper - бесплатное приложение для использования макросов в ")
-yougame.biz###header > div.p-header-inner > div.p-header-content > nav.p-nav:last-child > div.p-nav-scroller.hScroller:last-child > div.hScroller-scroll.is-calculated:first-child > ul.p-nav-list.js-offCanvasNavSource > li:nth-child(6) > div.p-navEl > a.p-navEl-link
-yougame.biz##.is-prefix164
-yougame.biz##.item--stickedLink, .is-sticked
-@@||https://yougame.biz/images/rlm/logo/logoconcept4.png
-||ackcdn.net^
+
+! 2022-12-09 https://steamcommunity.com
+steamcommunity.com##.sih_skins_giveaway.row > .row
+
+! 2022-12-21 https://animelib.me
+animelib.me##.ads__title
+
+! 2022-12-28 https://yougame.biz
+yougame.biz##.item:has-text(' [Завершено]')
+
+! 2023-01-07 https://yougame.biz
+yougame.biz##.f_o_p
+yougame.biz##.so_t_ka
+yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Ставки CS:GO')
+yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Купить чит')
+yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Приватные читы')
+yougame.biz##.sponsor-banner-ss
+yougame.biz##.is-sticked
+yougame.biz##noindex
+yougame.biz##.is-sticky.item--thread.item
