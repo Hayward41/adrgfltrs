@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.1.0
+! Version: 1.1.1
 ! Title: Что-то?
-! Last modified: 07 Jan 2023
+! Last modified: 05 Feb 2023
 ! Description: Что-то? но вот что?
 
 ! 2022-12-09 https://steamcommunity.com
