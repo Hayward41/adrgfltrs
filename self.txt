@@ -23,3 +23,5 @@ yougame.biz##.sponsor-banner-ss
 yougame.biz##.is-sticked
 yougame.biz##noindex
 yougame.biz##.is-sticky.item--thread.item
+##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('BUY CHEATS')
+##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('FIFA 23 HACK')
