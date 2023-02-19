@@ -1,19 +1,25 @@
 [Adblock Plus 2.0]
-! Version: 1.1.1
+! Version: 1.2.0
 ! Title: Что-то?
-! Last modified: 05 Feb 2023
+! Last modified: 19 Feb 2023
 ! Description: Что-то? но вот что?
 
-! 2022-12-09 https://steamcommunity.com
+!shikimori
+shikimori.one##.spns_special_x894
+shikimori.one##.spns_special_x1170
+shikimori.one##.spns_special_x300
+
+!anilibria.tv
+anilibria.tv##.header
+anilibria.tv##[href="https://www.anilibria.tv/pages/donate.php"]
+
+!steam SIH ad
 steamcommunity.com##.sih_skins_giveaway.row > .row
+steamcommunity.com##.ru.left-panel_sponsor
+steamcommunity.com###a-to-csgofast
+steamcommunity.com##div.tradePanel:nth-of-type(1)
 
-! 2022-12-21 https://animelib.me
-animelib.me##.ads__title
-
-! 2022-12-28 https://yougame.biz
-yougame.biz##.item:has-text(' [Завершено]')
-
-! 2023-01-07 https://yougame.biz
+!yougame.biz
 yougame.biz##.f_o_p
 yougame.biz##.so_t_ka
 yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Ставки CS:GO')
@@ -25,3 +31,9 @@ yougame.biz##.is-sticky.item--thread.item
 yougame.biz##noindex
 yougame.biz##.is-sticked
 yougame.biz##.sponsor-banner-ss
+!yogame draws
+yougame.biz##.item:has-text(' [Завершено]')
+
+
+!animelib.me
+animelib.me##.ads__title
