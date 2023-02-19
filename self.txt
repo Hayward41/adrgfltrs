@@ -34,6 +34,8 @@ yougame.biz##.sponsor-banner-ss
 !yogame draws
 yougame.biz##.item:has-text(' [Завершено]')
 
-
 !animelib.me
 animelib.me##.ads__title
+
+!darklibria
+darklibria.it###support_anilibria
