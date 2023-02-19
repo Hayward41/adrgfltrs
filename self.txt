@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1.2.0
+! Version: 1.2.1
 ! Title: Что-то?
 ! Last modified: 19 Feb 2023
 ! Description: Что-то? но вот что?
