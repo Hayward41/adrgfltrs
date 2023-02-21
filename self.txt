@@ -40,3 +40,9 @@ animelib.me##.ads__title
 
 !darklibria
 darklibria.it###support_anilibria
+
+!https://cross.bet
+cross.bet##.px-md-3.px-0.mr-3.text-white.dropdown
+cross.bet###banner_main_hor_link
+cross.bet###banner_match_hor_link
+
