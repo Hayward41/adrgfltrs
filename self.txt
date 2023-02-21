@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.2.1
+! Version: 1.2.3
 ! Title: Что-то?
-! Last modified: 19 Feb 2023
+! Last modified: 21 Feb 2023
 ! Description: Что-то? но вот что?
 
 !shikimori
@@ -45,4 +45,4 @@ darklibria.it###support_anilibria
 cross.bet##.px-md-3.px-0.mr-3.text-white.dropdown
 cross.bet###banner_main_hor_link
 cross.bet###banner_match_hor_link
-
+cross.bet###banner_upcoming_hor_link
