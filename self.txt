@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.2.3
+! Version: 1.2.4
 ! Title: Что-то?
-! Last modified: 21 Feb 2023
+! Last modified: 28 Feb 2023
 ! Description: Что-то? но вот что?
 
 !shikimori
@@ -27,11 +27,14 @@ yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:h
 yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Приватные читы')
 yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('BUY CHEATS')
 yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('FIFA 23 HACK')
+yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('ЧИТ')
+yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('чит')
 yougame.biz##.is-sticky.item--thread.item
 yougame.biz##.is-prefix164.item--thread.item
 yougame.biz##noindex
 yougame.biz##.is-sticked
 yougame.biz##.sponsor-banner-ss
+yougame.biz##.p-body-inner > p
 !yogame draws
 yougame.biz##.item:has-text(' [Завершено]')
 
@@ -41,8 +44,11 @@ animelib.me##.ads__title
 !darklibria
 darklibria.it###support_anilibria
 
-!cross.bet
+!https://cross.bet
 cross.bet##.px-md-3.px-0.mr-3.text-white.dropdown
 cross.bet###banner_main_hor_link
 cross.bet###banner_match_hor_link
 cross.bet###banner_upcoming_hor_link
+
+!1progs.ru
+1progs.ru##.code-block-6.code-block
