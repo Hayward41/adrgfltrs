@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.2.4
+! Version: 1.2.5
 ! Title: Что-то?
-! Last modified: 28 Feb 2023
+! Last modified: 13 Mar 2023
 ! Description: Что-то? но вот что?
 
 !shikimori
