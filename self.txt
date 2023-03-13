@@ -52,3 +52,6 @@ cross.bet###banner_upcoming_hor_link
 
 !1progs.ru
 1progs.ru##.code-block-6.code-block
+
+!web.telegram.org
+web.telegram.org##.open.Message.SponsoredMessage
