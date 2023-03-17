@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 1.0.0
+! Title: Telegram
+! Last modified: 17 Mar 2023
+! Description: Telegram adlist
+
+!sponsored messages
+web.telegram.org##.open.Message.SponsoredMessage
+
+!messages that contains #реклама
+web.telegram.org##.message-list-item.Message:has-text('#реклама')
