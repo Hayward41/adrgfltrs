@@ -22,13 +22,13 @@ steamcommunity.com##div.tradePanel:nth-of-type(1)
 !yougame.biz
 yougame.biz##.f_o_p
 yougame.biz##.so_t_ka
-yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Ставки CS:GO')
-yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Купить чит')
-yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('Приватные читы')
-yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('BUY CHEATS')
-yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('FIFA 23 HACK')
-yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('ЧИТ')
-yougame.biz##.js-offCanvasNavSource.p-nav-list > li > .p-navEl > .p-navEl-link:has-text('чит')
+yougame.biz##.p-navEl-link:has-text('Ставки CS:GO')
+yougame.biz##.p-navEl-link:has-text('Купить чит')
+yougame.biz##.p-navEl-link:has-text('Приватные читы')
+yougame.biz##.p-navEl-link:has-text('BUY CHEATS')
+yougame.biz##.p-navEl-link:has-text('FIFA 23 HACK')
+yougame.biz##.p-navEl-link:has-text('ЧИТ')
+yougame.biz##.p-navEl-link:has-text('чит')
 yougame.biz##.is-sticky.item--thread.item
 yougame.biz##.is-prefix164.item--thread.item
 yougame.biz##noindex
