@@ -67,3 +67,6 @@ korsars.pro##[src="/styles/images/AdGuard_*.png"]
 korsars.pro##[href="https://bit.ly/3G7byN3"]
 korsars.pro##[href="https://clck.ru/VaQpQ"]
 korsars.pro##[src="sdbx.PNG"]
+
+!vpnjantit.com
+www.vpnjantit.com###globalsun-div-player:has-text('Advertisements')
