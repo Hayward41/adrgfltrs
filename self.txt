@@ -65,3 +65,5 @@ open.spotify.com##*.Button-sc-y0gtbx-0:has-text('Upgrade')
 korsars.pro##[href="https://bit.ly/3F201gC"]
 korsars.pro##[src="/styles/images/AdGuard_*.png"]
 korsars.pro##[href="https://bit.ly/3G7byN3"]
+korsars.pro##[href="https://clck.ru/VaQpQ"]
+korsars.pro##[src="sdbx.PNG"]
