@@ -60,3 +60,8 @@ open.spotify.com##* > * > *.link-subtle:has-text('Установить прил�
 !open.spotify.com en
 open.spotify.com##* > * > *.link-subtle:has-text('Install App')
 open.spotify.com##*.Button-sc-y0gtbx-0:has-text('Upgrade')
+
+!korsars.pro
+korsars.pro##[href="https://bit.ly/3F201gC"]
+korsars.pro##[src="/styles/images/AdGuard_*.png"]
+korsars.pro##[href="https://bit.ly/3G7byN3"]
