@@ -70,3 +70,6 @@ korsars.pro##[src="sdbx.PNG"]
 
 !vpnjantit.com
 www.vpnjantit.com###globalsun-div-player:has-text('Advertisements')
+
+!modrinth.com
+modrinth.com###__nuxt > div.layout > main > * > .normal-page > .normal-page__content > *:has([href="https://adrinth.com"])
