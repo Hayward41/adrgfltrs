@@ -49,6 +49,8 @@ cross.bet##.px-md-3.px-0.mr-3.text-white.dropdown
 cross.bet###banner_main_hor_link
 cross.bet###banner_match_hor_link
 cross.bet###banner_upcoming_hor_link
+@@www.cross.bet/img/logo/*.*$image
+cross.bet##.partnerLink
 
 !1progs.ru
 1progs.ru##.code-block-6.code-block
