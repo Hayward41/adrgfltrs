@@ -9,9 +9,9 @@ shikimori.one##.spns_special_x894
 shikimori.one##.spns_special_x1170
 shikimori.one##.spns_special_x300
 
-!anilibria.tv
-anilibria.tv##.header
-anilibria.tv##[href="https://www.anilibria.tv/pages/donate.php"]
+!anilibria.tv anilib.moe
+anilib.moe,anilibria.tv##.header
+anilib.moe,anilibria.tv##[href="https://www.anilibria.tv/pages/donate.php"]
 
 !steam SIH ad
 steamcommunity.com##.sih_skins_giveaway.row > .row
