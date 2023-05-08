@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.2.5
+! Version: 1.2.6
 ! Title: Что-то?
-! Last modified: 13 Mar 2023
+! Last modified: 08 May 2023
 ! Description: Что-то? но вот что?
 
 !shikimori
@@ -18,6 +18,7 @@ steamcommunity.com##.sih_skins_giveaway.row > .row
 steamcommunity.com##.ru.left-panel_sponsor
 steamcommunity.com###a-to-csgofast
 steamcommunity.com##div.tradePanel:nth-of-type(1)
+steamcommunity.com##*.sih-subscribe-donat
 
 !yougame.biz
 yougame.biz##.f_o_p
@@ -74,9 +75,13 @@ korsars.pro##[src="/styles/images/AdGuard_*.png"]
 korsars.pro##[href="https://bit.ly/3G7byN3"]
 korsars.pro##[href="https://clck.ru/VaQpQ"]
 korsars.pro##[src="sdbx.PNG"]
+korsars.pro##.tLeft
 
 !vpnjantit.com
 www.vpnjantit.com###globalsun-div-player:has-text('Advertisements')
 
 !modrinth.com
 modrinth.com###__nuxt > div.layout > main > * > .normal-page > .normal-page__content > *:has([href="https://adrinth.com"])
+
+!bilibili.tv
+||p.bstarstatic.com/management/*.svg$image
