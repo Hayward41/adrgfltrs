@@ -64,12 +64,12 @@ cross.bet##.partnerLink
 1progs.ru##.code-block-6.code-block
 
 !open.spotify.com ru
-open.spotify.com##.Button-sc-y0gtbx-0:has-text('Сменить тариф')
-open.spotify.com##* > * > *.link-subtle:has-text('Установить приложение')
+open.spotify.com###main > * > * > * > * > * > *:has-text('Сменить тариф')
+open.spotify.com###main > * > * > * > * > * > *:has-text('Установить приложение')
 
 !open.spotify.com en
-open.spotify.com##* > * > *.link-subtle:has-text('Install App')
-open.spotify.com##*.Button-sc-y0gtbx-0:has-text('Upgrade')
+open.spotify.com###main > * > * > * > * > * > *:has-text('Upgrade')
+open.spotify.com###main > * > * > * > * > * > *:has-text('Install App')
 
 !korsars.pro
 korsars.pro##[href="https://bit.ly/3F201gC"]
@@ -87,3 +87,6 @@ modrinth.com###__nuxt > div.layout > main > * > .normal-page > .normal-page__con
 
 !bilibili.tv
 ||p.bstarstatic.com/management/*.svg$image
+
+!anistar
+anistar.org,astar.bz##.as-act:has-text('Актуальный адрес сайта AniStar')
