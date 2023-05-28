@@ -97,3 +97,7 @@ iq.com##.logoShowAnimation.iqp-logo-top-logo > svg
 !duckduckgo.com
 duckduckgo.com###menu-button--menu--P0-0
 
+!chat.openai.com
+chat.openai.com##*>*>*>*>*>*>*>*>*>*>*:has-text('Upgrade to Plus')
+
+
