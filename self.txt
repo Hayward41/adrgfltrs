@@ -90,3 +90,10 @@ modrinth.com###__nuxt > div.layout > main > * > .normal-page > .normal-page__con
 
 !anistar
 anistar.org,astar.bz##.as-act:has-text('Актуальный адрес сайта AniStar')
+
+!iq.com
+iq.com##.logoShowAnimation.iqp-logo-top-logo > svg
+
+!duckduckgo.com
+duckduckgo.com###menu-button--menu--P0-0
+
