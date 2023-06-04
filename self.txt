@@ -78,6 +78,8 @@ korsars.pro##[href="https://bit.ly/3G7byN3"]
 korsars.pro##[href="https://clck.ru/VaQpQ"]
 korsars.pro##[src="sdbx.PNG"]
 korsars.pro###logo > table > tbody > tr > .tLeft
+korsars.pro##div:nth-of-type(7):has(img[src*="styles/images/stat.png"])
+korsars.pro###sidebar1 > div:has(img[src*="styles/images/help_tr.png"])
 
 !vpnjantit.com
 www.vpnjantit.com###globalsun-div-player:has-text('Advertisements')
