@@ -102,4 +102,14 @@ duckduckgo.com###menu-button--menu--P0-0
 !chat.openai.com
 chat.openai.com##*>*>*>*>*>*>*>*>*>*>*:has-text('Upgrade to Plus')
 
+!smotret-anime.com anime365.ru
+||smotret-anime.com/images/bg3.jpg$image
+||smotret-anime.online/images/bg3.jpg$image
+||anime365.ru/images/bg3.jpg$image
+||smotret-anime.com^$third-party
+||smotret-anime.online^$third-party
+||anime365.ru^$third-party
+smotret-anime.com,smotret-anime.online,anime365.ru##.m-comments-invite
+smotret-anime.com,smotret-anime.online,anime365.ru##.col-even.l3.m4 > div.card:nth-of-type(2) > .card-content
+smotret-anime.com,smotret-anime.online,anime365.ru##.col-even.l3 > div.card:nth-of-type(3) > .card-content
 
