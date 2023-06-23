@@ -8,6 +8,7 @@
 shikimori.one##.spns_special_x894
 shikimori.one##.spns_special_x1170
 shikimori.one##.spns_special_x300
+shikimori.me##[href^="https://лето.будьвдвижении.рф/"]
 
 !anilibria.tv anilib.moe anilib.top
 anilib.moe,anilibria.tv,anilib.top##.header
