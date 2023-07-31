@@ -127,4 +127,7 @@ redheadsound.studio##div.side-block:nth-of-type(4):has-text('РЕКЛАМА')
 !rezka.ag
 ||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
 
+!myanimelist.net
+myanimelist.net##*.notice_open_public
+myanimelist.net##.pb24 > .widget-content:has-text('MALxJapan')
 
