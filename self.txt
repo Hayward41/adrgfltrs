@@ -131,3 +131,6 @@ redheadsound.studio##div.side-block:nth-of-type(4):has-text('РЕКЛАМА')
 myanimelist.net##*.notice_open_public
 myanimelist.net##.pb24 > .widget-content:has-text('MALxJapan')
 
+!gelbooru
+gelbooru.com##div:nth-of-type(3):has-text('Have you first tried disabling your AdBlock?')
+gelbooru.com##small:has-text('Original concept by Danbooru')
