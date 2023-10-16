@@ -82,6 +82,8 @@ korsars.pro##[src="sdbx.PNG"]
 korsars.pro###logo > table > tbody > tr > .tLeft
 korsars.pro##div:nth-of-type(7):has(img[src*="styles/images/stat.png"])
 korsars.pro###sidebar1 > div:has(img[src*="styles/images/help_tr.png"])
+korsars.pro##center:nth-of-type(3):has-text('ВАША РЕКЛАМА')
+korsars.pro##center:nth-of-type(3):has-text('приобрести VIP статус')
 
 !vpnjantit.com
 www.vpnjantit.com###globalsun-div-player:has-text('Advertisements')
@@ -134,3 +136,19 @@ myanimelist.net##.pb24 > .widget-content:has-text('MALxJapan')
 !gelbooru
 gelbooru.com##div:nth-of-type(3):has-text('Have you first tried disabling your AdBlock?')
 gelbooru.com##small:has-text('Original concept by Danbooru')
+
+!iq.com
+www.iq.com##.logoShowAnimation.iqp-logo-top-logo > svg
+
+!erai raws only eng and rus subs
+www.erai-raws.info##.clearfix:not(:has-text(.rus)):not(:has-text(.eng)):not(:has-text(..)):has-text('[Erai-raws]'):has-text('.ass')
+
+!anidub
+anidub.*##div.cat1.fullshort.ignore-select.sect
+anidub.*##.anidub__info_mess
+anidub.*##div.wrap-center.wrap-main > .content2
+anidub.*##* > .pbgm-btn
+
+!new animelib fix
+@@||yandex.ru/ads/system/adsdk.js$domain=test-front.animelib.me
+
