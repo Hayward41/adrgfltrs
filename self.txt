@@ -45,6 +45,7 @@ yougame.biz##.item:has-text(' [Завершено]')
 animelib.me##.ads__title
 animelib.me##.ads__wrap
 animelib.me##.ads.section
+#@#.bookmarks-container
 
 !darklibria
 darklibria.it###support_anilibria
