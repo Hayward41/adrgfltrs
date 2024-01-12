@@ -153,3 +153,6 @@ anidub.*##* > .pbgm-btn
 !new animelib fix
 @@||yandex.ru/ads/system/adsdk.js$domain=test-front.animelib.me
 
+!lib
+test-front.animelib.me,test-front.mangalib.me,test-front.hentailib.me,https://test-front.ranobelib.me/ru?section=home-updates,test-front.slashlib.me##._container--indent._container:has-text('Реклама')
+test-front.animelib.me,test-front.mangalib.me,test-front.hentailib.me,https://test-front.ranobelib.me/ru?section=home-updates,test-front.slashlib.me##.uf_fw:has-text('Реклама')
