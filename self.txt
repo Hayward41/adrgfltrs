@@ -41,10 +41,10 @@ yougame.biz##.p-body-inner > p
 !yogame draws
 yougame.biz##.item:has-text(' [Завершено]')
 
-!animelib.me
-animelib.me##.ads__title
-animelib.me##.ads__wrap
-animelib.me##.ads.section
+!anilib.me
+anilib.me##.ads__title
+anilib.me##.ads__wrap
+anilib.me##.ads.section
 #@#.bookmarks-container
 
 !darklibria
@@ -150,9 +150,9 @@ anidub.*##.anidub__info_mess
 anidub.*##div.wrap-center.wrap-main > .content2
 anidub.*##* > .pbgm-btn
 
-!new animelib fix
-@@||yandex.ru/ads/system/adsdk.js$domain=test-front.animelib.me
+!new anilib fix
+@@||yandex.ru/ads/system/adsdk.js$domain=test-front.anilib.me
 
 !lib
-test-front.animelib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##._container--indent._container:has-text('Реклама')
-test-front.animelib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##.uf_fw:has-text('Реклама')
+test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##._container--indent._container:has-text('Реклама')
+test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##.uf_fw:has-text('Реклама')
