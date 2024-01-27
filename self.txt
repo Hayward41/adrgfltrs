@@ -150,9 +150,15 @@ anidub.*##.anidub__info_mess
 anidub.*##div.wrap-center.wrap-main > .content2
 anidub.*##* > .pbgm-btn
 
+!onwave
+onwavedub.com###abwrap
+
 !new anilib fix
 @@||yandex.ru/ads/system/adsdk.js$domain=test-front.anilib.me
 
 !lib
-test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##._container--indent._container:has-text('Реклама')
-test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##.uf_fw:has-text('Реклама')
+test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##*>*>*>*>*>*:has-text('Реклама')
+!убрать отзывы на главной
+test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##.section.sl_he
+test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me##div.unset-padding-y.section-body:nth-of-type(3)
+
