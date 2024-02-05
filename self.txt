@@ -157,4 +157,4 @@ onwavedub.com###abwrap
 @@||yandex.ru/ads/system/adsdk.js$domain=test-front.anilib.me
 
 !lib
-test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me###app>*>*>*:has-text('Реклама')
+!test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me###app>*>*>*:has-text('Реклама')
