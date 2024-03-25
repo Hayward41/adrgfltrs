@@ -158,3 +158,4 @@ onwavedub.com###abwrap
 
 !lib
 test-front.anilib.me,test-front.mangalib.me,test-front.hentailib.me,test-front.ranobelib.me,test-front.slashlib.me###app>*>*[style="margin-top: 20px; margin-bottom: 20px;"]:has-text('Реклама')
+test-front.anilib.me###app>.page>._container--indent._container:has-text('Реклама')
